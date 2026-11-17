@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Aarush 👋
 
-<!--
-**aarushb18/aarushb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech Computer Science student at **VIT Vellore**, focused on backend engineering, relational databases, and algorithmic problem-solving.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Practicing Data Structures & Algorithms in Java and querying PostgreSQL.
+- 🌱 **Currently learning:** Backend web development with **Spring Boot** and REST API design.
+- 🎯 **Goal:** Building practical backend projects and contributing to open-source Java repositories.
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/aarush-bharadwaj-64b0a6421/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+- **Languages:** Java, SQL
+- **Databases & Backend:** PostgreSQL, Spring Boot *(learning)*
+- **Tools:** Git, GitHub, Bash, VS Code
+
+---
+
+### Featured Projects
+
+*(Coming soon — currently building my first Java + PostgreSQL backend projects!)*
